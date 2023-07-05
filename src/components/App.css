@@ -1,3 +1,17 @@
 html {
     background: #f8f8f8;
 }
+.favePlaces{
+    border: 5px solid olivedrab;
+}
+
+.place{
+border: 1px solid #ccc;
+
+padding: 1rem;
+margin: 1rem;
+background: #fff;
+box-shadow: 0 0 5px #ccc;
+
+
+}
